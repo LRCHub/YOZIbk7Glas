@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Cry for Help",
+  "base_artist": "Rick Astley",
+  "createdAt": "2026-01-04T10:26:47.155850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cry for Help",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/01_Cry_for_Help_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cry for Help - Reimagined",
+      "artist": "Rick Astley",
+      "has_synced": false,
+      "path": "select/02_Cry_for_Help_-_Reimagined_Rick_Astley.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cry for Help",
+      "artist": "Bonfire",
+      "has_synced": true,
+      "path": "select/03_Cry_for_Help_Bonfire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cry for Help",
+      "artist": "Sick Of It All",
+      "has_synced": true,
+      "path": "select/04_Cry_for_Help_Sick_Of_It_All.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cry For Help",
+      "artist": "Daughtry",
+      "has_synced": true,
+      "path": "select/05_Cry_For_Help_Daughtry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cry for Help",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/06_Cry_for_Help_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cry for Help - Single Edit",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/07_Cry_for_Help_-_Single_Edit_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cry For Help (single edit)",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/08_Cry_For_Help_(single_edit)_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cry for Help (Single Edit)",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/09_Cry_for_Help_(Single_Edit)_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cry For Help",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/10_Cry_For_Help_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cry For Help",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/11_Cry_For_Help_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cry For Help",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/12_Cry_For_Help_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Children Cry For Help",
+      "artist": "Zao",
+      "has_synced": false,
+      "path": "select/13_The_Children_Cry_For_Help_Zao.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cry for Help",
+      "artist": "Shed Seven",
+      "has_synced": true,
+      "path": "select/14_Cry_for_Help_Shed_Seven.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cry For Help",
+      "artist": "Rick Astley",
+      "has_synced": false,
+      "path": "select/pl_01_Cry_For_Help_Rick_Astley.txt"
+    }
+  ]
+}
